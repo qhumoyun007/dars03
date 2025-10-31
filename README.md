@@ -33,3 +33,13 @@
 # a=["mercedes", "bmw", "chevrolet", "ford", "rolse-royse"]
 # b=a.sort(reverse=True)
 # print(a)
+# a=("mercedes", "bmw", "chevrolet", "ford", "rolse-royse")
+# b=list(a)
+# b.append("tayota")
+# c=tuple(b)
+# print(c)
+# a=("mercedes", "bmw", "chevrolet", "ford", "rolse-royse")
+# b=list(a)
+# b.sort()
+# for i in b:
+#     print(i)
